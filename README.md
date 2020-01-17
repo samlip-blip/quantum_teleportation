@@ -1,2 +1,2 @@
 # quantum_teleportation
-exploring details of the quantum teleporation
+exploring details of the quantum teleportation
